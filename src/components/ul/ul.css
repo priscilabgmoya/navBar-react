@@ -1,0 +1,17 @@
+.listadoNavegacion{
+display:  flex;
+flex-direction: row;
+align-items: center;
+text-align: end;
+}
+@media all and (max-width: 	768px){
+    .listadoNavegacion{
+        display: flex;
+        flex-direction: row;
+        padding-right: 13px;
+    }
+}
+@media all and (min-width: 	768px) and (max-width: 991px){
+
+
+}
